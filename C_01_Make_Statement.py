@@ -4,5 +4,5 @@ def make_statement(statement, decoration):
 
     print(f"{decoration * 3} {statement} {decoration * 3}")
 
-#Main Routine goes here
-make_statement("Penguins are cool!", "🐧")
+# Main Routine goes here
+make_statement("Penguins are cool!","🐧")
